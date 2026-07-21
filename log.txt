@@ -1,0 +1,72 @@
+commit 286c5a5953ee0d52bb5517ae7996bea9aa2739a0
+Merge: b84bcde 05aa680
+Author: Natan Chaves <natanlinebr@gmail.com>
+Date:   Tue Jul 21 07:31:50 2026 -0300
+
+    Merge branch 'main' of https://github.com/chav3s/numero-secreto
+
+commit b84bcde6c281b31eee409a3e738b2243374197fb
+Author: Natan Chaves <natanlinebr@gmail.com>
+Date:   Tue Jul 21 07:29:59 2026 -0300
+
+    testa conflito
+
+commit 05aa680f814c66657973f54df7095f17bbdf5d73
+Author: Natan Chaves <99539197+chav3s@users.noreply.github.com>
+Date:   Tue Jul 21 07:28:37 2026 -0300
+
+    Update app.js
+
+commit b53454aaa4434190a85771e337c71a4cf1468e29
+Author: Natan Chaves <99539197+chav3s@users.noreply.github.com>
+Date:   Tue Jul 21 07:28:08 2026 -0300
+
+    Update index.html
+
+commit 98693584bcd211dd99ac0c8c9a931dda0be666db
+Author: Natan Chaves <99539197+chav3s@users.noreply.github.com>
+Date:   Tue Jul 21 07:27:15 2026 -0300
+
+    Update index.html
+
+commit 5a4549b143e706b2ca2359b8b2f588a97d870265
+Author: Natan Chaves <natanlinebr@gmail.com>
+Date:   Tue Jul 21 07:12:18 2026 -0300
+
+    Deixa o jogo 10
+
+commit 7403b2f09a004fa5a06b736a0fb93f53168aaa6b
+Author: Natan Chaves <natanlinebr@gmail.com>
+Date:   Mon Jul 20 13:40:43 2026 -0300
+
+    Altera para 100
+
+commit 95bff33ce839c7dcf62a91eadbc091e06898daef
+Author: Arthur Klober <arthurciszk@gmail.com>
+Date:   Mon Jul 20 13:38:11 2026 -0300
+
+    Altera o número limite para 25
+
+commit 0f8643f144e79d7da21d2ec31c1242995eaca5d8
+Author: Natan Chaves <natanlinebr@gmail.com>
+Date:   Mon Jul 20 13:14:58 2026 -0300
+
+    Deixa o jogo mais facil 25
+
+commit c2d78b9a220720863fe517238313e2bcd462bf32
+Author: Natan Chaves <natanlinebr@gmail.com>
+Date:   Mon Jul 20 12:56:23 2026 -0300
+
+    Altera dificuldade para 50
+
+commit 2020658c62a1100a08ef7e15f39ffea9d2c57b52
+Author: Natan Chaves <natanlinebr@gmail.com>
+Date:   Mon Jul 20 12:51:59 2026 -0300
+
+    alterando limite para 100
+
+commit d752d349fda77c4deedd82aa26a7b928faf7067b
+Author: Natan Chaves da Silva <natan.silva@selbetti.local>
+Date:   Mon Jul 20 12:26:02 2026 -0300
+
+    projeto inicial
